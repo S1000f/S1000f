@@ -1,7 +1,7 @@
 ### 🌱 I’m looking for a job
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=S1000f&show_icons=true&theme=cobalt&line_height=27" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=S1000f&show_icons=true&theme=cobalt&line_height=21" />
 </a>
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1000f&hide_langs_below=1&theme=cobalt&layout=compact" />
