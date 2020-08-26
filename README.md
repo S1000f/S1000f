@@ -1,4 +1,4 @@
-### 🌱 I’m looking for a job
+### 🌱
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=S1000f&show_icons=true&theme=cobalt&line_height=27" />
